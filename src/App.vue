@@ -50,6 +50,7 @@ export default {
   padding: 10px 20px;
   border-radius: 5px;
   border: 0px;
+  cursor: pointer;
 }
 .play:disabled {
   background: rgba(0, 0, 0, 0.5);
